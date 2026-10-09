@@ -10,7 +10,7 @@ import java.util.List;
 import java.util.Random;
 import java.util.Scanner;
 
-public class WordleGame { // Main class for the Wordle game implementation
+public class Wordle { // Main class for the Wordle game implementation
  
     static final String YELLOW = "\u001B[33m"; // Correct letter, wrong position
     static final String GREEN = "\u001B[32m";  // Correct letter, correct position
